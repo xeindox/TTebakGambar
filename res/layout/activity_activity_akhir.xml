@@ -1,0 +1,21 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#00aaa1"
+    tools:context="com.jamaleko.ttebakgambar.ActivityAkhir" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:text="
+        SELAMAT ANDA BERHASIL MENJAWAB 
+        10 PERSOALAN DENGAN TEPAT"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:typeface="monospace" />
+
+</RelativeLayout>
